@@ -1,1 +1,1 @@
-<P>Verifide</P>
+<P>Verified</P>
